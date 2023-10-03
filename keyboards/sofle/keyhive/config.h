@@ -25,3 +25,4 @@
 #define SPLIT_WPM_ENABLE
 #define SPLIT_OLED_ENABLE
 #define SPLIT_TRANSPORT_MIRROR
+#define RGBLIGHT_LIMIT_VAL 30 // LED Brightness, high power draw may exceed the USB limitations of 0.6A and cause a crash.
